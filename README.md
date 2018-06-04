@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/MariaSQL
+bye bye microsoft. please visit https://git.osuv.de/m/MariaSQL
